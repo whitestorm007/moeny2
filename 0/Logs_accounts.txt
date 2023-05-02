@@ -1,0 +1,12 @@
+{
+    "Jeetshekhaliyakaacc@outlook.com": {
+        "Last check": "2023-04-15",
+        "Today's points": 337,
+        "Points": 678
+    },
+    "shekhaliyajeetkadusra@outlook.com": {
+        "Last check": "2023-04-15",
+        "Today's points": 57,
+        "Points": 3991
+    }
+}
